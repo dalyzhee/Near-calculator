@@ -1,7 +1,7 @@
 [package]
-name = "rust-template"
+name = "near-calculator"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
+authors = ["levis odhiambo"]
 edition = "2018"
 
 [lib]
